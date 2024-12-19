@@ -1,0 +1,17 @@
+body{
+    background-color: #f0f0f0;
+}
+.title-start{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.start-btn{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.start-btn:hover{
+    background-color: #52C3E7;
+    color: #f1f1f1;
+}
